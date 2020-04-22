@@ -1,0 +1,2 @@
+include ':app', ':android-permission'
+rootProject.name='Permission Util'

@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pateldeepdev.android_permission" >
+    <application>
+
+        <activity
+            android:name=".PermissionUtil"
+            android:theme="@style/Permissions.TransparentTheme" />
+
+    </application>
+</manifest>
