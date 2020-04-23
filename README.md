@@ -7,6 +7,6 @@
 Include the library in your ```build.gradle```
 ```
 dependencies{
-  implementation 'com.github.pateldeepdev:android-permissionUtil:1.0.0'
+  implementation 'com.github.pateldeepdev:android-permissionUtil:1.0.1'
 }
 ```
