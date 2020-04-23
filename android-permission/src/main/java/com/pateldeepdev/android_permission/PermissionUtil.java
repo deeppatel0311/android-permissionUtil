@@ -12,8 +12,6 @@ import android.os.Bundle;
 import android.provider.Settings;
 import android.text.TextUtils;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import java.util.ArrayList;
 
 @SuppressWarnings("unchecked")

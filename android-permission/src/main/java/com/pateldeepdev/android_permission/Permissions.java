@@ -6,8 +6,6 @@ import android.content.pm.PackageManager;
 import android.os.Build;
 import android.util.Log;
 
-import androidx.annotation.RequiresApi;
-
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Collections;
